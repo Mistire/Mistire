@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mistire</h1>
-<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
+<h3 align="center">A passionate Software Engineering student from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistire&label=Profile%20views&color=0e75b6&style=flat" alt="mistire" /> </p>
 
