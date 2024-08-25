@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistire" alt="mistire" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and Django framework**
+- 🌱 I’m currently learning **Next.js and DSA**
 
 - 📫 How to reach me **mdwithgod@gmail.com**
 
