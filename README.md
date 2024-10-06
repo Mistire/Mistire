@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mistire" alt="mistire" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js and DSA**
+- 🌱 I’m currently learning **Django and DSA**
 
-- 📫 How to reach me **mdwithgod@gmail.com**
+- 📫 How to reach me **mistiredan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
