@@ -16,10 +16,10 @@
 ### 🚀 About Me
 
 - 🎓 I'm a **Software Engineering student** at AASTU.
-- 💻 I'm currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
-- 🧠 Interested in **problem solving**, **systems design**, and building scalable backend systems.
+- 💻 Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
+- 🧠 Passionate about **system design**, **API development**, and building practical backend solutions.
 - 📫 Reach me at **mistiredan@gmail.com**
-- ⚡ Fun fact: I love building things that automate boring stuff and make life easier!
+- ⚡ Fun fact: I love automating boring tasks and tracking self-growth through projects.
 
 ---
 
@@ -48,14 +48,41 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔧 **[Django Projects from Django 5 by Example](https://github.com/Mistire/django-projects)**  
+  Hands-on implementations of practical web apps like blogs, e-commerce stores, dashboards, and more — all built using Django 5 best practices.
+
+- 💬 **[Django Social Media App](https://github.com/Mistire/django-social-media)**  
+  A full-featured social media backend using Django REST Framework, JWT auth, post interactions, and testing with Pytest. Built as a capstone project.
+
+- ⏳ **[TimeBank Backend](https://github.com/mistire/TimeBank)**  
+  Hackathon project enabling students to trade time for services. Built with Django, DRF, and custom booking logic.
+
+---
+
+### 🎯 2025 Goals
+
+- ✅ Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)
+- ✅ Master Django REST Framework + advanced testing with Pytest
+- 🧪 Learn CI/CD with GitHub Actions and Docker basics
+- 🎓 Complete Backend Pro Dev at ALX with high project ratings
+- 💬 Contribute to at least 2 open-source Django or backend-focused repositories
+- 🌐 Launch a full-stack app using Django + React
 
 ---
 
@@ -75,29 +102,7 @@
 
 ---
 
-### 📌 Featured Projects
-
-> A few of my personal and academic projects:
-
-- 🔧 **[TimeBank Backend](https://github.com/mistire/TimeBank)** – A Django-based skill-exchange platform where students trade services using time.
-- 🧠 **Sentiment Analysis on Social Media Posts** – ML-based NLP project to classify user sentiments.
-- 🌍 **Ethio360 VR** – Virtual experience platform for Ethiopian cultural heritage (Figma, WebVR).
-
-> _More coming soon..._
-
----
-
-### 🎯 Goals for 2025
-
-- 🔨 Build 18+ Django backend projects
-- 🚀 Learn DevOps and containerization (Docker, CI/CD)
-- 🌐 Master full-stack development using Django + React
-- 🧪 Improve TDD and automated testing (Pytest, Postman, Swagger)
-- 💡 Participate in more hackathons and open-source projects
-
----
-
-### 🔥 Fun Stats
+### 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact" alt="Activity Graph" />
@@ -107,4 +112,3 @@
 
 > “Consistency beats motivation.”  
 > Let’s build something awesome together 🚀
-
