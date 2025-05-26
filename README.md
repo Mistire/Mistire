@@ -84,7 +84,7 @@
 - 💬 **[Django Social Media App](https://github.com/Mistire/django-social-media)**  
   A full-featured social media backend using Django REST Framework, JWT auth, post interactions, and testing with Pytest. Built as a capstone project.
 
-- ⏳ **[TimeBank Backend](https://github.com/mistire/TimeBank)**  
+- ⏳ **[TimeBank Backend](https://github.com/wende12github/Silent-Coders)**  
   Hackathon project enabling students to trade time for services. Built with Django, DRF, and custom booking logic.
 
 ---
