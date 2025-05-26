@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mistire</h1>
-<h3 align="center">💻 A passionate Software Engineering student from Ethiopia 🇪🇹</h3>
+<h3 align="center">💻 Passionate Software Engineering Student | Backend Developer | Tech Explorer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mistire&label=Profile%20views&color=0e75b6&style=flat" alt="mistire" />
@@ -7,27 +7,30 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mistire&theme=onedark&row=1&column=6" alt="mistire trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mistire&theme=onedark&no-frame=true&margin-w=10&column=6" alt="mistire trophies" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Backend Development** and enrolled in **ALX Backend Pro Dev**
-- 🎯 Focused on becoming a solid **Full-Stack Developer**
-- 📫 How to reach me: **mistiredan@gmail.com**
+
+- 🎓 I'm a **Software Engineering student** at AASTU.
+- 💻 I'm currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
+- 🧠 Interested in **problem solving**, **systems design**, and building scalable backend systems.
+- 📫 Reach me at **mistiredan@gmail.com**
+- ⚡ Fun fact: I love building things that automate boring stuff and make life easier!
 
 ---
 
-### 🌐 Connect with me
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/mistire37" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/mistire-daniel-87b451229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/mistire37" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -56,19 +59,52 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistire&theme=radical" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-⭐️ Thanks for visiting my profile!
+### 📌 Featured Projects
+
+> A few of my personal and academic projects:
+
+- 🔧 **[TimeBank Backend](https://github.com/mistire/TimeBank)** – A Django-based skill-exchange platform where students trade services using time.
+- 🧠 **Sentiment Analysis on Social Media Posts** – ML-based NLP project to classify user sentiments.
+- 🌍 **Ethio360 VR** – Virtual experience platform for Ethiopian cultural heritage (Figma, WebVR).
+
+> _More coming soon..._
+
+---
+
+### 🎯 Goals for 2025
+
+- 🔨 Build 18+ Django backend projects
+- 🚀 Learn DevOps and containerization (Docker, CI/CD)
+- 🌐 Master full-stack development using Django + React
+- 🧪 Improve TDD and automated testing (Pytest, Postman, Swagger)
+- 💡 Participate in more hackathons and open-source projects
+
+---
+
+### 🔥 Fun Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact" alt="Activity Graph" />
+</p>
+
+---
+
+> “Consistency beats motivation.”  
+> Let’s build something awesome together 🚀
 
