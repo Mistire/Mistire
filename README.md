@@ -15,11 +15,11 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a **Software Engineering student** at AASTU.
-- 💻 Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
-- 🧠 Passionate about **system design**, **API development**, and building practical backend solutions.
-- 📫 Reach me at **mistiredan@gmail.com**
-- ⚡ Fun fact: I love automating boring tasks and tracking self-growth through projects.
+- I'm a **Software Engineering student** at AASTU.
+- Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
+- Passionate about **system design**, **API development**, and building practical backend solutions.
+- Reach me at **mistiredan@gmail.com**
+- Fun fact: I love automating boring tasks and tracking self-growth through projects.
 
 ---
 
@@ -91,12 +91,12 @@
 
 ### 🎯 2025 Goals
 
-- ✅ Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)
-- ✅ Master Django REST Framework + advanced testing with Pytest
-- 🧪 Learn CI/CD with GitHub Actions and Docker basics
-- 🎓 Complete Backend Pro Dev at ALX with high project ratings
-- 💬 Contribute to at least 2 open-source Django or backend-focused repositories
-- 🌐 Launch a full-stack app using Django + React
+- Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)
+- Master Django REST Framework + advanced testing with Pytest
+- Learn CI/CD with GitHub Actions and Docker basics
+- Complete Backend Pro Dev at ALX with high project ratings
+- Contribute to at least 2 open-source Django or backend-focused repositories
+- Launch a full-stack app using Django + React
 
 ---
 
