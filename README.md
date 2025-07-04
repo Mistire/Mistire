@@ -48,31 +48,18 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
 
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
-  <!-- Tools & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="filter: invert(100%)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/swagger.svg" width="40" height="40" alt="Swagger" style="filter: invert(100%)"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
-
 
 ---
 
@@ -127,7 +114,8 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
 ---
 
 > “Consistency beats motivation.”  
-> Let’s build something awesome together 🚀
+> Let’s build something awesome together 
