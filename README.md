@@ -25,17 +25,17 @@
 
 ### 🚀 About Me
 
-- I'm a **Software Engineering student** at AASTU.
-- Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.
-- Passionate about **system design**, **API development**, and building practical backend solutions.
-- Reach me at **mistiredan@gmail.com**
+- I'm a **Software Engineering student** at AASTU.  
+- Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.  
+- Passionate about **system design**, **API development**, and building practical backend solutions.  
+- Reach me at **mistiredan@gmail.com**  
 - Fun fact: I love automating boring tasks and tracking self-growth through projects.
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/mistire37" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -57,10 +57,20 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,bootstrap,tailwind" />
+
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+
+  <!-- DevOps & Deployment -->
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
+
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
@@ -81,12 +91,12 @@
 
 ### 🎯 2025 Goals
 
-- Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)
-- Master Django REST Framework + advanced testing with Pytest
-- Learn CI/CD with GitHub Actions and Docker basics
-- Complete Backend Pro Dev at ALX with high project ratings
-- Contribute to at least 2 open-source Django or backend-focused repositories
-- Launch a full-stack app using Django + React
+- Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)  
+- Master Django REST Framework + advanced testing with Pytest  
+- Learn CI/CD with GitHub Actions and Docker basics  
+- Complete Backend Pro Dev at ALX with high project ratings  
+- Contribute to at least 2 open-source Django or backend-focused repositories  
+- Launch a full-stack app using Django + React  
 
 ---
 
