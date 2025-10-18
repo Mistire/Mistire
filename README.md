@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mistire</h1>
-<h3 align="center"> Aspiring Software Engineering | Web Developer | Tech Explorer from Ethiopia 🇪🇹</h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer | Tech Explorer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mistire&label=Profile%20views&color=0e75b6&style=flat" alt="mistire" />
 </p>
 
-<p align="left">
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mistire&theme=onedark&no-frame=true&margin-w=10&column=6" alt="mistire trophies" />
+    <picture>
+      <!-- Dark Mode -->
+      <source 
+        srcset="https://github-profile-trophy.vercel.app/?username=mistire&theme=onedark&no-frame=true&margin-w=10&column=6&background=000000"
+        media="(prefers-color-scheme: dark)" />
+      <!-- Light Mode -->
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=mistire&theme=flat&no-frame=true&margin-w=10&column=6&background=ffffff" 
+        alt="mistire trophies" />
+    </picture>
   </a>
 </p>
 
@@ -48,16 +58,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-
-  <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
-
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
@@ -89,33 +92,60 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<p align="center">
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <!-- Light Mode -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=default"
+      alt="GitHub Stats" />
+  </picture>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=mistire&theme=radical" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=mistire&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://streak-stats.demolab.com?user=mistire&theme=default"
+      alt="GitHub Streak" />
+  </picture>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=radical" alt="Top Languages" />
+<!-- Top Languages -->
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=default"
+      alt="Top Languages" />
+  </picture>
 </p>
 
 ---
 
 ### 🔥 Activity Graph
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact" alt="Activity Graph" />
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact&bg_color=0d1117&color=ffffff"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=minimal&bg_color=ffffff&color=000000"
+      alt="Activity Graph" />
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 ---
 
 > “Consistency beats motivation.”  
-> Let’s build something awesome together 
+> Let’s build something awesome together 🚀
