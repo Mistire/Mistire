@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mistire&label=Profile%20views&color=0e75b6&style=flat" alt="mistire" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mistire&theme=onedark&no-frame=true&margin-w=10&column=6" alt="mistire trophies" />
   </a>
@@ -89,15 +89,15 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=mistire&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -105,7 +105,7 @@
 
 ### 🔥 Activity Graph
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact" alt="Activity Graph" />
 </p>
 
