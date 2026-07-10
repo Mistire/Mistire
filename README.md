@@ -1,3 +1,4 @@
+
 <h1 align="center">Mistire Daniel</h1>
 <p align="center"><strong>Software Engineer | Backend & Distributed Systems</strong></p>
 
@@ -65,22 +66,20 @@ I am a Software Engineer focused on building scalable, high-performance backends
 
 ---
 
-### 📈 Metrics
+### 🔥 Contribution Activity
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=dark&bg_color=000000&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mistire&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=github-compact&bg_color=000000&color=ffffff&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mistire&theme=minimal&bg_color=ffffff&color=000000"
+      alt="Activity Graph" />
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=dark&bg_color=000000&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistire&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
-
----
 
 <p align="center"><em>Production-grade code over complexity.</em></p>
+
+```
