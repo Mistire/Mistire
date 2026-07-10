@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Mistire</h1>
-<h3 align="center">Software Engineer | Backend & Distributed Systems | Ethiopia 🇪🇹</h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer | Tech Explorer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mistire&label=Profile%20views&color=0e75b6&style=flat" alt="mistire" />
@@ -26,18 +25,25 @@
 
 ### 🚀 About Me
 
-- I am a **Software Engineering student** at AASTU, focusing on scalable backends and intelligent systems.  
-- Passionate about **system design**, **concurrency optimization**, and building high-performance architectures.  
+- I'm a **Software Engineering student** at AASTU.  
+- Currently learning **Backend Development** and **Backend Pro Dev** at **ALX Africa**.  
+- Passionate about **system design**, **API development**, and building practical backend solutions.  
 - Reach me at **mistiredan@gmail.com**  
-- Fun fact: I love bypassing rigid system and budget bottlenecks with creative infrastructure workarounds.
+- Fun fact: I love automating boring tasks and tracking self-growth through projects.
 
 ---
 
 ### 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://twitter.com/mistire37" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="https://linkedin.com/in/mistire-daniel-87b451229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/mistire37" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://codeforces.com/profile/mistire37" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
@@ -53,33 +59,44 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
   
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,nextjs,react,redux,django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,bootstrap,tailwind" />
 
-  <!-- Databases & Queues -->
-  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
   <!-- DevOps & Deployment -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel" />
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🚀 **[Campus Event Management System (CEMS)](https://github.com/Mistire)**  
-  A scalable modular monolith backend built using NestJS and FastAPI. Avoided expensive notification gateways by building a custom routing layer integrated with a Telegram Channel and Telegram Mini Apps for real-time ticket delivery.
+- 🔧 **[Django Projects from Django 5 by Example](https://github.com/Mistire/django-projects)**  
+  Hands-on implementations of practical web apps like blogs, e-commerce stores, dashboards, and more — all built using Django 5 best practices.
 
-- 🤖 **[Autonomous Data Analytics Agent](https://github.com/Mistire)**  
-  A production-grade AI agent pipeline built for UC Berkeley's DataAgentBench challenge. Designed a custom context engineering layer handling dynamic state tracking and local code execution self-correction. **Secured 2nd place on the leaderboard.**
+- 💬 **[Django Social Media App](https://github.com/Mistire/django-social-media)**  
+  A full-featured social media backend using Django REST Framework, JWT auth, post interactions, and testing with Pytest. Built as a capstone project.
 
-- 📊 **[Financial Technology Admin Portal](https://github.com/Mistire)**  
-  Optimized dashboard user interface states and integrated WebSocket-based live health monitoring systems to significantly reduce UI latency during an engineering internship.
+- ⏳ **[TimeBank Backend](https://github.com/wende12github/Silent-Coders)**  
+  Hackathon project enabling students to trade time for services. Built with Django, DRF, and custom booking logic.
+
+---
+
+### 🎯 2025 Goals
+
+- Build 10+ portfolio-ready Django backend projects (APIs, automation, real-world apps)  
+- Master Django REST Framework + advanced testing with Pytest  
+- Learn CI/CD with GitHub Actions and Docker basics  
+- Complete Backend Pro Dev at ALX with high project ratings  
+- Contribute to at least 2 open-source Django or backend-focused repositories  
+- Launch a full-stack app using Django + React  
 
 ---
 
