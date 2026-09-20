@@ -3,20 +3,18 @@
 <h3 align="center">Software Engineer | Web Developer | Full-Stack Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-  <a href="https://github.com/Mistire">
-    <img src="https://komarev.com/ghpvc/?username=Mistire&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mistire&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### About Me
 
-* Software Engineer focused on building practical and scalable software.
+* **Software Engineer currently working in the software industry**, building and maintaining practical software solutions.
 * Software Engineering graduate from **Addis Ababa Science and Technology University (AASTU)**.
-* Interested in **web development, system design, AI engineering, and developer tools**.
-* Experienced with modern web technologies, APIs, databases, cloud infrastructure, and AI-powered systems.
-* Always learning, building, and exploring new technologies.
+* Experienced in developing **web applications, APIs, and software systems**.
+* Interested in **system design, AI engineering, cloud technologies, and developer tools**.
+* I enjoy solving complex problems and turning ideas into reliable software.
 * Reach me at **[mistiredan@gmail.com](mailto:mistiredan@gmail.com)**
 
 ---
@@ -102,21 +100,6 @@
 
 ---
 
-### GitHub Activity
-
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mistire&theme=github-compact&hide_border=true" />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Mistire&theme=minimal&hide_border=true"
-      alt="Mistire's GitHub Activity Graph" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <i>Building software, solving problems, and learning along the way.</i>
+  <i>Building software, solving problems, and turning ideas into reality.</i>
 </p>
